@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.vladcolceriu.fictionalpotato.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.vladcolceriu.fictionalpotato.MyBundle
 
 class MyProjectService(project: Project) {
 

@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.vladcolceriu.fictionalpotato.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.vladcolceriu.fictionalpotato.MyBundle
 
 class MyApplicationService {
 
